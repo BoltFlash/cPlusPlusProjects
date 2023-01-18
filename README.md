@@ -1,2 +1,2 @@
-# cPlusPlusProjects
+# CodingProjects
 C++ Projects
